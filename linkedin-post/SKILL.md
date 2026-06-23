@@ -186,12 +186,34 @@ When you suggest a carousel, output it as a numbered slide-by-slide script
 
 ## Anti-slop — never do these
 
+The biggest tell isn't a word, it's the rhythm. AI writing is too clean, too
+symmetric, too evenly punchy. Human writing is uneven. Break the pattern on purpose.
+
+**Punctuation & rhythm (the 2026 AI tells):**
+
+- **Em dashes: use almost never.** The em dash has become shorthand for "AI wrote
+  this." Prefer a period, a comma, parentheses, or just two sentences. At most one
+  in an entire post, and only if nothing else works. (Quietly applies to the en
+  dash and "—"-style asides too.)
+- **Vary sentence length.** Don't make every line a short punchy fragment. Let some
+  sentences run long and breathe; keep a few short. Uniform cadence reads as a machine.
+- **No "It's not X, it's Y."** Banned, along with "X isn't about A — it's about B."
+- **Don't default to arrow bullets (→).** Use plain lines, numbers, or nothing.
+  Arrows on every item is a tell.
+- **Avoid triadic lists** ("warm intros, vibes, and whoever replies"). Use two
+  items, or four, or an uneven list. The rule-of-three cadence is a fingerprint.
+- **Don't stack one-line paragraphs for the whole post.** Mix in at least one
+  normal 2–3 sentence paragraph so it doesn't read like a template.
+
+**Phrases & openers to never use:**
+
 - "I'm thrilled/excited/humbled to share", "In today's fast-paced world", "Let's
   dive in", "Here's the thing".
 - Hype with no substance: "game-changer", "revolutionary", "unlock", "supercharge",
   "leverage", "synergy", "10x", rocket emoji.
-- "It's not X, it's Y" overuse; over-stacked rhetorical questions; "Agree? 👇" bait.
-- Vague universal claims — every claim needs a concrete anchor.
+- Over-stacked rhetorical questions; "Agree? 👇" / "Thoughts?" bait.
+- Filler words: "genuinely", "honestly".
+- Vague universal claims. Every claim needs a concrete anchor.
 
 ## Swipe file — real posts that worked (match the pattern & voice, never copy text)
 
@@ -243,6 +265,10 @@ zoom from the specific to a thesis; use comment mechanics for reach; drop the
 
 1. Confirm: account mode (founder vs company), the point, the proof.
 2. Draft 1 version in the best-fit frame. Tight.
-3. Offer **3 alternative hooks** so the user can pick the opener (hooks matter most).
-4. Note the character count and whether a carousel would outperform.
-5. Iterate on feedback. Never auto-post — drafting only.
+3. **Read-aloud check before showing it.** Say the draft in your head. If no real
+   person would talk like this, rewrite it. Specifically scan for and fix: em
+   dashes, "It's not X, it's Y", triadic lists, arrow bullets, and all-short-sentence
+   rhythm. A draft that fails this gets fixed, not shipped.
+4. Offer **3 alternative hooks** so the user can pick the opener (hooks matter most).
+5. Note the character count and whether a carousel would outperform.
+6. Iterate on feedback. Never auto-post — drafting only.

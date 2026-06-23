@@ -125,10 +125,28 @@ nothing downstream matters. Clever-without-substance reads as bait; cut it.
 
 ## Anti-slop — never do these
 
+The biggest tell is rhythm, not any single word. AI writing is too clean and
+evenly punchy. Rough it up on purpose.
+
+**Punctuation & rhythm (the 2026 AI tells):**
+
+- **Em dashes: use almost never.** The em dash now reads as "AI wrote this." Prefer
+  a period, a comma, parentheses, or just two sentences. On X, lowercase and a
+  plain period look more native anyway.
+- **Vary length.** Not every tweet/line is the same clipped fragment. Let one run
+  long and conversational; keep others short.
+- **No "It's not X, it's Y"** (or "it's not a hiring tool, it's a data-entry tax"
+  as a reflex — use it rarely, not as a tic).
+- **Avoid triadic lists and arrow bullets as a default.** Two or four items, or none.
+- Don't make a thread read like a corporate carousel. Tweets should sound talked, not designed.
+
+**Phrases & moves to never use:**
+
 - LinkedIn-isms on X ("I'm excited to share", emoji-bullet lists), hype words
   ("game-changer", "unlock", "10x", "🚀"), hashtag stuffing.
-- "a thread 🧵" as the whole hook — the hook must carry a real idea.
-- Engagement bait ("RT if you agree", "like for part 2"), over-formatted tweets.
+- "a thread 🧵" as the whole hook. The hook must carry a real idea.
+- Engagement bait ("RT if you agree", "like for part 2").
+- Filler words: "genuinely", "honestly".
 
 ## Swipe file — real posts that worked (match pattern & voice, never copy text)
 
@@ -165,5 +183,8 @@ reply mechanics. Compress hard — X rewards the idea stripped to its sharpest l
 
 1. Confirm: account mode, point, format (single vs thread), proof.
 2. Draft it; for threads lay out each tweet clearly separated with char counts.
-3. Offer **3 alternative hooks** for tweet 1 (the highest-leverage choice).
-4. Iterate. Never auto-post — drafting only.
+3. **Read-aloud check.** Say it in your head. If it doesn't sound like a person
+   talking, rewrite it. Scan for and fix em dashes, "It's not X it's Y", triadic
+   lists, and uniform clipped rhythm.
+4. Offer **3 alternative hooks** for tweet 1 (the highest-leverage choice).
+5. Iterate. Never auto-post — drafting only.
